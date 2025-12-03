@@ -13,9 +13,6 @@ docs/
 # Dotenv file
 .env
 
-# Dependencies
-lib/
-
 # IDE
 .vscode/
 .idea/
